@@ -2,4 +2,6 @@ version: "3"
 
 services:
   hello:
-    image: docker/whalesay
+    image: yeasy/simple-web:latest
+    ports:
+     - "80:80"
