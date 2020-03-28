@@ -2,6 +2,6 @@ version: "3"
 
 services:
   hello:
-    image: yeasy/simple-web:latest
+    image: yeasy/simple-web
     ports:
      - 80:80
