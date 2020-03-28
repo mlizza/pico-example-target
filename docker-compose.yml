@@ -4,4 +4,4 @@ services:
   hello:
     image: yeasy/simple-web
     ports:
-     - 80:80
+     - 8080:80
